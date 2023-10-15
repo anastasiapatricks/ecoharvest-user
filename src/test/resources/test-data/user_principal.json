@@ -1,0 +1,17 @@
+{
+  "id": "1",
+  "username": "user001",
+  "password": "password",
+  "user": {
+    "id": "1",
+    "username": "user001",
+    "password": "password",
+    "name": "User Admin",
+    "email": "user_admin@test.com",
+    "contactNo": "91234567",
+    "role": "ADMIN",
+    "createdDateTime": "",
+    "token": ""
+  },
+  "authorities": null
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2",
+  "username": "user002",
+  "password": "password",
+  "name": "User",
+  "email": "user@test.com",
+  "contactNo": "98765432",
+  "role": "USER",
+  "createdDateTime": "",
+  "token": ""
+}
